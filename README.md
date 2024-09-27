@@ -4,7 +4,7 @@ Este proyecto es un juego interactivo de **Tic Tac Toe** (Tres en Raya) desarrol
 
 ## Características
 
-- Permite a dos jugadores humanos competir entre sí.
+- Permite a dos jugadores competir entre sí.
 - Destaca al jugador actual en cada turno.
 - Detecta automáticamente el ganador y muestra un mensaje con el resultado.
 - Indica si el juego termina en empate.
@@ -26,11 +26,11 @@ Este proyecto es un juego interactivo de **Tic Tac Toe** (Tres en Raya) desarrol
 ## Cómo ejecutar el proyecto
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tic-tac-toe.git
+   git clone https://github.com/Christian-Duarte/tic-tac-toe-game.git
    ```
 2. Navegar al directorio del proyecto:
    ```bash
-   cd tic-tac-toe
+   cd tic-tac-toe-game
    ```
 3. Instalar dependencias:
    ```bash
@@ -38,5 +38,5 @@ Este proyecto es un juego interactivo de **Tic Tac Toe** (Tres en Raya) desarrol
    ```
 4. Ejecutar la aplicación:
    ```bash
-   npm start
+   npm run dev
    ```
